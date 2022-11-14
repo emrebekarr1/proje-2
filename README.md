@@ -15,6 +15,6 @@ Merge Sort Projesi
 
 [11,16,21]		|	[8,12,22]
 
-		[8,11,12,16,21,22]
-##Big-O gösterimini yazınız.
+		[8,11,12,16,21,22] 
+		##Big-O gösterimini yazınız.
 O(nlogn)
